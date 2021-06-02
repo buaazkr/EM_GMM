@@ -1,7 +1,5 @@
 # EM_GMM
-test EM method and gmm  
-EM为EM method辅助脚本  
-main为计算和绘图程序  
+EM_GMM.py是使用EM方法对混合高斯分布GMM参数预测的程序脚本  
 男生身高：均值：175，标准差：15  
 男生身高：均值：165，标准差：10  
 使用固定的随机种子生成400个男生身高数据和200个女生数据，保存在male_data.txt、female_data.txt中  
